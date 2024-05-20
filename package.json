@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alqamah/csv-upload.git"
+    "url": "git+https://github.com/yash202000/csv-upload.git"
   },
   "keywords": [
     "nodejs",
@@ -21,9 +21,9 @@
   "author": "Yash Panchwatkar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alqamah/csv-upload/issues"
+    "url": "https://github.com/yash202000/csv-upload/issues"
   },
-  "homepage": "https://github.com/alqamah/csv-upload#readme",
+  "homepage": "https://github.com/yash202000/csv-upload#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "dotenv": "^16.4.5",
