@@ -18,7 +18,7 @@
     "mongodb"
   ],
   "type": "module",
-  "author": "alqama hasnain",
+  "author": "Yash Panchwatkar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alqamah/csv-upload/issues"
